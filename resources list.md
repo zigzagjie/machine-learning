@@ -12,3 +12,7 @@
   - **If you want to apply in Python with Sckit-learn**
   [document](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html)
   [document](http://scikit-learn.org/stable/auto_examples/tree/plot_unveil_tree_structure.html)
+  
+  - Analyticvidhya [complete tutorial of tree-based modeling](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
+  
+       It is a very comprehensive tutorial from principal and coding! Highly recommend!
